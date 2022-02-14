@@ -1,0 +1,1 @@
+This project was about how to fit a non linear regression to a sigmoidal data and predict accuracy
